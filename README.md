@@ -1,2 +1,1 @@
-# Folder-Permissions
-PowerShell Script for Retrieving Folder Permissions
+Simple PowerShell Script for Retrieving Folder Permissions
